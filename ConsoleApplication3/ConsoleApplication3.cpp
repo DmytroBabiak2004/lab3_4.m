@@ -39,7 +39,7 @@ int main()
 	return 0;
 }
 
-double determinant(double matrix[3][3]) 
+double determinant(double matrix[3][3])  //визначник
 {
 	double det = 0;
 
